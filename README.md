@@ -59,4 +59,4 @@ Se incluyen pruebas básicas para `Header` y `ProductCard`.
 
 ## 📄 Licencia
 
-Proyecto con fines evaluación técnica.
+Proyecto con fines personales.
