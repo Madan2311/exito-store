@@ -1,6 +1,6 @@
 # 🛒 Éxito Store - Prueba Técnica
 
-Aplicación de comercio electrónico desarrollada como prueba técnica para el Grupo Éxito.
+Aplicación de comercio electrónico desarrollada.
 
 Permite explorar productos, ver detalles, gestionar un carrito de compras y completar una compra ficticia.
 
